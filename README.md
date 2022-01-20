@@ -19,4 +19,4 @@ pip install -r req.txt
 
 > happy try 😁
 
-- https://polygons.polygon3.repl.co/
+- https://api.polygon3.repl.co/
