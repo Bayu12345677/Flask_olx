@@ -10,7 +10,7 @@ pip install -r req.txt
 <br>
 <p align="center">
    <a href="https://github.com/Bayu12345677/"> Result
-     <img src="https://github.com/Bayu12345677/Flask_olx/blob/main/img/Screenshot_20220120-153627~2.png" width="300">
+     <img src="https://github.com/Bayu12345677/Flask_olx/blob/main/img/Screenshot_20220120-153627~2.png" width="600">
       </a>
      </p>
 <br>
