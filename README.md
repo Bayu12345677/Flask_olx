@@ -1,10 +1,11 @@
 <h1 align="center"> Simpel flask</h1>
 
-- `setup`
+berfungsi untuk mengirimkan otp olx ke target menggunakan flask python<br>
+
+- `cara menggunakan nya`
 ```python
 pip install -r req.txt
 ```
-
 `python app.py`
 <br>
 <br>
