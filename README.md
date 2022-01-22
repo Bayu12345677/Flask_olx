@@ -19,4 +19,4 @@ pip install -r req.txt
 
 > happy try 😁
 
-- https://api.polygon3.repl.co/
+- https://web.speedrun.42web.io/
